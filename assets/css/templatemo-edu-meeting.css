@@ -899,6 +899,7 @@ section.upcoming-meetings {
 
 section.upcoming-meetings .section-heading {
   text-align: center;
+  margin-top: 6em;
 }
 
 section.upcoming-meetings .categories {
