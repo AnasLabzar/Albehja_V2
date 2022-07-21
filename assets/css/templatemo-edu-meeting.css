@@ -761,7 +761,6 @@ header
 @media (min-width: 767px) {
   .header-area .main-nav .nav {
     display: flex !important;
-    background-color: #6F7475;
   }
 }
 
@@ -1902,11 +1901,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/meetings-page-bg.jpg);
-  background-position: center center;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #1F262C;
   padding-top: 140px;
   padding-bottom: 0px;
 }
