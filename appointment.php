@@ -70,7 +70,7 @@
                                     </svg>
                                     </svg>
                                 </div>
-                                <p style=" font-size: 20px; margin: 0;">Monday to Friday 8am to<br>6pm
+                                <p style=" font-size: 20px; margin: 0;">Lundi a  Vendredi 8am -<br>6pm
                                     and weekends by appointment</p>
                             </div>
                         </div>

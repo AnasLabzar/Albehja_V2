@@ -31,7 +31,7 @@
               <h6>Expert en Hygiene Collictive</h6>
               <h2>VOTRE PARTENAIRE DANS<br>LA LUTTE CONTRE LES NUISIBLES</h2>
               <div class="main-button-red">
-                <div class="scroll-to-section"><a href="trades.php">Devis Gratuit!</a></div>
+                <div><a href="trades.php">Devis Gratuit!</a></div>
               </div>
             </div>
           </div>
@@ -1557,20 +1557,20 @@
               <div class="item active">
                 <div class="carousel-caption testimonial-caption-style">
                   <p>albehja sarl est une société professionnelle dans son domaine.</p>
-                  <p class="testimonial-authors">Dar Palmyra</p>
+                  <p class="testimonial-authors">Riad dar Palmyra</p>
                 </div>
               </div>
               <div class="item">
                 <div class="carousel-caption testimonial-caption-style">
                   <p>Personnel disponible. Albehja Société nous accompagne et apporte des solutions en cas de problème.
                   </p>
-                  <p class="testimonial-authors">Boulangerie Hamra</p>
+                  <p class="testimonial-authors">Boulangerie Patesserie Afidia</p>
                 </div>
               </div>
               <div class="item">
                 <div class="carousel-caption testimonial-caption-style">
                   <p>Par expérience, vos prestations sont à la hauteur des attentes de vos clients.</p>
-                  <p class="testimonial-authors">School Planete</p>
+                  <p class="testimonial-authors">School Planete Mansouri</p>
                 </div>
               </div>
             </div>

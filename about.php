@@ -34,8 +34,8 @@
   <section class="metieres-" id="meetings">
     <section class="section-desinsectisation section-01">
       <div class="container">
-        <h1>ABOUT OUR PEST CONTROL COMPANY</h1>
-        <p>globus world est une entreprise 100 % London, spécialisée dans la lutte antiparasitaire. Depuis la fondation de notre compagnie, notre équipe s’efforce à répondre aux besoins grandissants des habitants et des entreprises en matière d’extermination et de décontamination. Nous croyons que chaque résidence, commerce et industrie mérite un technicien d’expérience offrant un service personnalisé.<br><br>
+        <h1>A propos nous</h1>
+        <p>Albehja societe est une entreprise 100 % Marrakech², spécialisée dans la lutte antiparasitaire. Depuis la fondation de notre compagnie, notre équipe s’efforce à répondre aux besoins grandissants des habitants et des entreprises en matière d’extermination et de décontamination. Nous croyons que chaque résidence, commerce et industrie mérite un technicien d’expérience offrant un service personnalisé.<br><br>
           Forte de plus de 30 ans d’expérience dans le domaine, notre équipe a développé des techniques de gestion parasitaire éprouvées.</p>
       </div>
     </section>
@@ -66,7 +66,7 @@
           </div>
         </div>
         <div class="content-contact">
-          <p>Pour en savoir plus sur nos tarifs et nos méthodes de lutte antiparasitaire,<br><b>CONTACTEZ-NOUS AU +44 01 0707 1855</b></p>
+          <p>Pour en savoir plus sur nos tarifs et nos méthodes de lutte antiparasitaire,<br><b>CONTACTEZ-NOUS AU +2126 817-302 21 & +2127 14 15-62 92</b></p>
         </div>
       </div>
     </section>
