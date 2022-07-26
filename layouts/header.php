@@ -25,11 +25,7 @@
         <div class="col-lg-4 col-sm-4" style="align-items: center;
         display: grid;">
           <div class="right-icons">
-            <ul style="margin: 0 !important;">
-              <li><a href="https://www.facebook.com/profile.php?id=100082520261101"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a href="https://albehja-deratisation.com"><i class="fa-solid fa-earth-europe"></i></a></li>
-              <li><a href="mailto:sarl.albehja@gmail.com"><i class="fab fa-google-plus-g"></i></a></li>
-            </ul>
+            <p style="color: #ffffffad; margin: 0;">dératisation - désinsectisation - désinfection</p>
           </div>
         </div>
       </div>
@@ -44,23 +40,16 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.php" class="logo">
-              <img style="width: 6em;" src="assets/images/logo dark mode.png" alt="">
+              <img class="logo-img" src="assets/images/logo dark mode.png" alt="">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
-              <li class="scroll-to-section"><a href="/">Home</a></li>
-              <li><a href="metiers.php">Métiers</a></li>
-              <li class="scroll-to-section"><a href="#apply">Apply Now</a></li>
-              <li class="has-sub">
-                <a href="javascript:void(0)">Pages</a>
-                <ul class="sub-menu">
-                  <li><a href="meetings.html">Upcoming Meetings</a></li>
-                  <li><a href="meeting-details.html">Meeting Details</a></li>
-                </ul>
-              </li>
-              <li class="scroll-to-section"><a href="#courses">Courses</a></li>
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li><a href="/">Accueil</a></li>
+              <li><a href="trades.php">Métiers</a></li>
+              <li><a href="about.php">À propos</a></li>
+              <li><a href="appointment.php">Devis</a></li>
+              <li><a href="contact.php">Contact-nous</a></li>
             </ul>
             <a class='menu-trigger'>
               <span>Menu</span>
@@ -71,4 +60,9 @@
       </div>
     </div>
   </header>
+  <style>
+      .main-nav .logo img {
+    width: 5em;
+  }
+  </style>
   <!-- ***** Header Area End ***** -->
